@@ -1,0 +1,10 @@
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+    margin-left: 20px;
+  }
+}
+
+.boxes-section .bi {
+  font-size: 40px;
+}
